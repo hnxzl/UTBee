@@ -1,6 +1,6 @@
 # 🐝 UTBee - Chatbot Asisten Akademik Universitas Teknologi Bandung
 
-## 📋 Informasi Project
+## Informasi Project
 
 **Nama Project:** UTBee – Chatbot Asisten Akademik Universitas Teknologi Bandung
 
@@ -18,11 +18,11 @@
 
 ---
 
-## 📖 Deskripsi
+## Deskripsi
 
 UTBee adalah chatbot asisten virtual yang dirancang untuk membantu mahasiswa Universitas Teknologi Bandung dalam mendapatkan informasi akademik dengan cepat dan mudah. Chatbot ini menggunakan pendekatan **Rule-Based System** dengan metode **Keyword Matching** untuk memberikan respons yang relevan berdasarkan pertanyaan pengguna.
 
-### 🎯 Tujuan Project
+### Tujuan Project
 
 Project ini dibuat sebagai bagian dari Ujian Tengah Semester (UTS) mata kuliah Artificial Intelligence dengan tujuan:
 
@@ -32,7 +32,7 @@ Project ini dibuat sebagai bagian dari Ujian Tengah Semester (UTS) mata kuliah A
 
 ---
 
-## ✨ Fitur Utama
+## Fitur Utama
 
 - ✅ **Keyword Matching Cerdas**: Mencocokkan pertanyaan pengguna dengan database menggunakan regex
 - ✅ **Database JSON Fleksibel**: Mudah menambah atau mengubah pertanyaan-jawaban
@@ -44,7 +44,7 @@ Project ini dibuat sebagai bagian dari Ujian Tengah Semester (UTS) mata kuliah A
 
 ---
 
-## 🧠 Konsep AI yang Digunakan
+## Konsep AI yang Digunakan
 
 ### Rule-Based System dengan Keyword Matching
 
@@ -60,14 +60,14 @@ UTBee menggunakan **Rule-Based System**, yaitu sistem AI yang bekerja berdasarka
 
 **Keunggulan Pendekatan Ini:**
 
-- ⚡ Cepat dan efisien
-- 🎯 Akurat untuk domain spesifik (akademik kampus)
-- 🔧 Mudah di-maintain dan dikembangkan
-- 💾 Tidak memerlukan training data atau model ML
+- Cepat dan efisien
+- Akurat untuk domain spesifik (akademik kampus)
+- Mudah di-maintain dan dikembangkan
+- Tidak memerlukan training data atau model ML
 
 ---
 
-## 📁 Struktur Project
+## Struktur Project
 
 ```
 UTBee_Chatbot/
@@ -80,7 +80,7 @@ UTBee_Chatbot/
 
 ---
 
-## 🚀 Cara Menjalankan Program
+## Cara Menjalankan Program
 
 ### Prasyarat
 
@@ -114,7 +114,7 @@ UTBee_Chatbot/
 
 ---
 
-## 📝 Cara Menambahkan Data Baru
+## Cara Menambahkan Data Baru
 
 Untuk menambahkan pertanyaan dan jawaban baru ke dalam chatbot:
 
@@ -149,39 +149,39 @@ Untuk menambahkan pertanyaan dan jawaban baru ke dalam chatbot:
 
 ---
 
-## 💬 Contoh Percakapan
+## Contoh Percakapan
 
 ### Percakapan 1: Tentang Dosen
 
 ```
 Anda: Siapa dosen pengampu AI?
-UTBee: 👨‍🏫 Dosen pengampu mata kuliah Artificial Intelligence adalah Bapak Dedi Rosadi, S.Kom. Beliau mengajar di kelas TIF RM 22B dengan beban 3 SKS.
+UTBee:  Dosen pengampu mata kuliah Artificial Intelligence adalah Bapak Dedi Rosadi, S.Kom. Beliau mengajar di kelas TIF RM 22B dengan beban 3 SKS.
 ```
 
 ### Percakapan 2: Tentang Jadwal
 
 ```
 Anda: Dimana saya bisa lihat jadwal kuliah?
-UTBee: 📅 Jadwal kuliah semester ini dapat dilihat di portal akademik Universitas Teknologi Bandung. Anda juga bisa menghubungi bagian akademik untuk informasi lebih detail!
+UTBee:  Jadwal kuliah semester ini dapat dilihat di portal akademik Universitas Teknologi Bandung. Anda juga bisa menghubungi bagian akademik untuk informasi lebih detail!
 ```
 
 ### Percakapan 3: Tentang Tugas UTS
 
 ```
 Anda: Apa tugas UTS kita?
-UTBee: 📝 UTS kali ini berupa proyek chatbot berbasis JSON bernama UTBee. Pastikan file data.json berfungsi dengan baik dan chatbot dapat menjawab pertanyaan seputar akademik kampus!
+UTBee:  UTS kali ini berupa proyek chatbot berbasis JSON bernama UTBee. Pastikan file data.json berfungsi dengan baik dan chatbot dapat menjawab pertanyaan seputar akademik kampus!
 ```
 
 ### Percakapan 4: Pertanyaan Tidak Dikenali
 
 ```
 Anda: Apa cuaca hari ini?
-UTBee: 🤔 Maaf, saya belum punya jawaban untuk pertanyaan itu. Coba tanyakan tentang jadwal, dosen, UTS, atau informasi kampus lainnya!
+UTBee:  Maaf, saya belum punya jawaban untuk pertanyaan itu. Coba tanyakan tentang jadwal, dosen, UTS, atau informasi kampus lainnya!
 ```
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+##  Teknologi yang Digunakan
 
 - **Bahasa Pemrograman**: Python 3.10+
 - **Library Standar**:
@@ -201,7 +201,7 @@ Hal ini sesuai dengan tujuan pembelajaran konsep AI rule-based yang sederhana.
 
 ---
 
-## 📊 Alur Kerja Sistem
+##  Alur Kerja Sistem
 
 ```
 ┌─────────────────┐
@@ -237,7 +237,7 @@ Hal ini sesuai dengan tujuan pembelajaran konsep AI rule-based yang sederhana.
 
 ---
 
-## 🧪 Testing & Validasi
+##  Testing & Validasi
 
 Chatbot telah diuji dengan berbagai skenario:
 
@@ -251,7 +251,7 @@ Chatbot telah diuji dengan berbagai skenario:
 
 ---
 
-## 📈 Pengembangan Lebih Lanjut
+##  Pengembangan Lebih Lanjut
 
 Potensi pengembangan UTBee di masa depan:
 
@@ -265,7 +265,7 @@ Potensi pengembangan UTBee di masa depan:
 
 ---
 
-## 👤 Informasi Mahasiswa
+## Informasi Mahasiswa
 
 **Nama:** Ezra Ben Hanschel  
 **NIM:** 22552011038  
@@ -275,12 +275,6 @@ Potensi pengembangan UTBee di masa depan:
 
 ---
 
-## 📞 Kontak & Support
-
-Jika ada pertanyaan atau masalah terkait project ini, silakan hubungi:
-
-- **Email Kampus**: [sesuaikan dengan email mahasiswa]
-- **GitHub**: [jika ada repository]
 
 ---
 
@@ -290,7 +284,7 @@ Project ini dibuat untuk keperluan akademik (UTS Artificial Intelligence) di Uni
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 Terima kasih kepada:
 
@@ -309,3 +303,4 @@ _"Membantu mahasiswa mendapatkan informasi kampus dengan cepat, mudah, dan menye
 **Tanggal Pembuatan:** November 2025  
 **Versi:** 1.0.0  
 **Status:** ✅ Production Ready
+
