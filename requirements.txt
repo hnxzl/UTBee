@@ -1,0 +1,25 @@
+# UTBee Chatbot Project Requirements
+# Mata Kuliah: Artificial Intelligence (3 SKS)
+# Mahasiswa: Ezra Ben Hanschel (NIM: 22552011038)
+# Dosen: Dedi Rosadi, S.Kom.
+# Universitas Teknologi Bandung
+
+# Python Version: 3.10+
+
+# Catatan: Project ini menggunakan library standar Python
+# dan tidak memerlukan instalasi package eksternal yang berat.
+
+# Library standar yang digunakan (sudah termasuk dalam Python):
+# - json (untuk membaca file JSON)
+# - re (untuk regex matching)
+# - tkinter (untuk GUI - sudah built-in di Python)
+
+# Jika menggunakan GUI dan tkinter tidak tersedia di sistem Anda,
+# install dengan perintah berikut (hanya untuk Linux):
+# sudo apt-get install python3-tk
+
+# Tidak ada dependencies eksternal yang wajib diinstall
+# Project dapat langsung dijalankan dengan:
+# python chatbot.py
+# atau
+# python chatbot_gui.py

@@ -1,0 +1,428 @@
+{
+  "pertanyaan": [
+    {
+      "keyword": [
+        "males",
+        "malas",
+        "tidak",
+        "mood",
+        "burnout",
+        "capek",
+        "lelah"
+      ],
+      "jawaban": "Wajar kok kalau kadang merasa lelah atau kehilangan motivasi. Coba istirahat sejenak, refreshing, atau ngobrol dengan teman. Ingat tujuan awalmu kuliah. Kamu pasti bisa!"
+    },
+    {
+      "keyword": ["susah", "sulit", "bingung", "tidak", "mengerti", "paham"],
+      "jawaban": "Jangan khawatir! Jika ada materi yang sulit, coba konsultasi dengan dosen, tanya teman, atau cari tutorial online. Belajar IT itu proses, semua orang pernah merasa kesulitan di awal."
+    },
+    {
+      "keyword": ["motivasi", "semangat", "inspiration", "inspirasi"],
+      "jawaban": "Kuliah di bidang IT memang menantang, tapi jangan menyerah. Terus belajar, praktik coding setiap hari, dan jangan ragu bertanya. Sukses menantimu di depan!"
+    },
+    {
+      "keyword": ["jadwal", "kuliah", "kelas", "waktu"],
+      "jawaban": "Jadwal kuliah semester ini dapat dilihat di portal akademik Universitas Teknologi Bandung. Anda juga bisa menghubungi bagian akademik untuk informasi lebih detail."
+    },
+    {
+      "keyword": ["dosen", "pengampu", "AI", "artificial intelligence", "dedi"],
+      "jawaban": "Dosen pengampu mata kuliah Artificial Intelligence adalah Bapak Dedi Rosadi, S.Kom. Beliau mengajar di kelas TIF RM 22B dengan beban 3 SKS."
+    },
+    {
+      "keyword": ["UTS", "tugas", "ujian", "tengah", "semester"],
+      "jawaban": "UTS kali ini berupa proyek chatbot berbasis JSON bernama UTBee. Pastikan file data.json berfungsi dengan baik dan chatbot dapat menjawab pertanyaan seputar akademik kampus."
+    },
+    {
+      "keyword": ["universitas", "teknologi", "bandung", "UTB", "kampus"],
+      "jawaban": "Universitas Teknologi Bandung (UTB) adalah kampus yang fokus pada teknologi dan inovasi digital. UTB berkomitmen menghasilkan lulusan berkualitas di bidang teknologi informasi."
+    },
+    {
+      "keyword": ["prodi", "program", "studi", "jurusan", "TIF"],
+      "jawaban": "Program Studi Teknik Informatika (TIF) di UTB menawarkan kurikulum berbasis industri dengan fokus pada pengembangan software, AI, data science, dan cybersecurity."
+    },
+    {
+      "keyword": ["SKS", "kredit", "beban"],
+      "jawaban": "Mata kuliah Artificial Intelligence memiliki beban 3 SKS. Pastikan Anda mengikuti semua perkuliahan dan mengerjakan tugas dengan baik untuk mendapatkan nilai maksimal."
+    },
+    {
+      "keyword": ["perpustakaan", "pustaka", "buku"],
+      "jawaban": "Perpustakaan UTB menyediakan berbagai koleksi buku, jurnal, dan e-book tentang teknologi informasi dan AI. Buka setiap hari Senin-Jumat pukul 08.00-16.00."
+    },
+    {
+      "keyword": ["laboratorium", "lab", "komputer"],
+      "jawaban": "Laboratorium komputer tersedia untuk praktikum dan pengerjaan tugas. Silakan reservasi melalui sistem lab atau hubungi asisten laboratorium."
+    },
+    {
+      "keyword": ["nilai", "grade", "IPK", "IP"],
+      "jawaban": "Nilai dan IPK dapat dilihat di portal akademik setelah periode input nilai selesai. Jika ada pertanyaan tentang nilai, silakan konsultasi dengan dosen pengampu."
+    },
+    {
+      "keyword": ["beasiswa", "scholarship"],
+      "jawaban": "UTB menyediakan berbagai program beasiswa untuk mahasiswa berprestasi. Informasi lengkap dapat dilihat di bagian kemahasiswaan atau website resmi kampus."
+    },
+    {
+      "keyword": ["krs", "kartu", "rencana"],
+      "jawaban": "Pengisian KRS (Kartu Rencana Studi) dilakukan setiap awal semester melalui portal akademik. Pastikan mengisi KRS sesuai jadwal yang ditentukan."
+    },
+    {
+      "keyword": ["wisuda", "graduation", "lulus"],
+      "jawaban": "Wisuda dilaksanakan dua kali setahun (semester genap dan ganjil). Persyaratan wisuda meliputi penyelesaian seluruh SKS, TA/Skripsi, dan administrasi keuangan."
+    },
+    {
+      "keyword": ["chatbot", "UTBee", "asisten"],
+      "jawaban": "UTBee adalah chatbot asisten akademik yang dibuat untuk membantu mahasiswa UTB mendapatkan informasi kampus dengan cepat. Saya menggunakan sistem rule-based keyword matching."
+    },
+    {
+      "keyword": ["NIM", "nomor", "induk", "mahasiswa"],
+      "jawaban": "NIM (Nomor Induk Mahasiswa) adalah identitas unik setiap mahasiswa. NIM digunakan untuk login portal akademik dan berbagai keperluan administratif."
+    },
+    {
+      "keyword": ["bantuan", "help", "tolong"],
+      "jawaban": "Saya bisa membantu menjawab pertanyaan seputar jadwal kuliah, dosen, UTS, informasi kampus, perpustakaan, lab, nilai, beasiswa, KRS, dan informasi akademik lainnya."
+    },
+    {
+      "keyword": ["UAS", "ujian", "akhir", "final"],
+      "jawaban": "Ujian Akhir Semester (UAS) biasanya dilaksanakan pada minggu ke-16 perkuliahan. Jadwal lengkap akan diumumkan melalui portal akademik dan papan pengumuman."
+    },
+    {
+      "keyword": ["absensi", "kehadiran", "presensi"],
+      "jawaban": "Kehadiran minimal 75% wajib dipenuhi untuk dapat mengikuti UAS. Absensi dapat dilihat di portal akademik atau aplikasi presensi kampus."
+    },
+    {
+      "keyword": ["cuti", "istirahat", "semester"],
+      "jawaban": "Cuti akademik dapat diajukan dengan mengisi formulir di bagian akademik. Mahasiswa diperbolehkan cuti maksimal 2 semester selama masa studi."
+    },
+    {
+      "keyword": ["skripsi", "tugas", "akhir", "TA"],
+      "jawaban": "Tugas Akhir/Skripsi dapat diambil setelah menyelesaikan minimal 120 SKS dengan IPK minimal 2.00. Konsultasikan dengan dosen pembimbing akademik untuk prosedur lengkapnya."
+    },
+    {
+      "keyword": ["dosen", "pembimbing", "akademik", "PA"],
+      "jawaban": "Dosen Pembimbing Akademik (PA) membantu mahasiswa dalam perencanaan studi dan konsultasi akademik. Setiap mahasiswa memiliki PA yang ditentukan oleh program studi."
+    },
+    {
+      "keyword": ["registrasi", "daftar", "ulang"],
+      "jawaban": "Registrasi ulang dilakukan setiap awal semester melalui portal akademik. Pastikan membayar uang kuliah sebelum batas waktu yang ditentukan."
+    },
+    {
+      "keyword": ["biaya", "uang", "kuliah", "SPP"],
+      "jawaban": "Informasi biaya kuliah dan pembayaran dapat dilihat di bagian keuangan atau portal akademik. Tersedia berbagai metode pembayaran termasuk transfer bank dan virtual account."
+    },
+    {
+      "keyword": ["fasilitas", "kampus", "sarana"],
+      "jawaban": "Fasilitas kampus meliputi perpustakaan, laboratorium komputer, ruang kelas ber-AC, hotspot WiFi, kantin, masjid, dan area parkir yang luas."
+    },
+    {
+      "keyword": ["wifi", "internet", "hotspot"],
+      "jawaban": "WiFi kampus tersedia di seluruh area dengan SSID UTB-Student. Username dan password dapat diperoleh di bagian IT dengan menunjukkan kartu mahasiswa."
+    },
+    {
+      "keyword": ["kartu", "mahasiswa", "KTM"],
+      "jawaban": "Kartu Tanda Mahasiswa (KTM) dapat diambil di bagian kemahasiswaan setelah registrasi. KTM diperlukan untuk akses fasilitas kampus dan identitas mahasiswa."
+    },
+    {
+      "keyword": ["organisasi", "kemahasiswaan", "UKM"],
+      "jawaban": "UTB memiliki berbagai organisasi kemahasiswaan dan UKM seperti BEM, Himpunan, UKM Olahraga, UKM Seni, dan UKM Rohani. Informasi pendaftaran tersedia di bagian kemahasiswaan."
+    },
+    {
+      "keyword": ["seminar", "workshop", "pelatihan"],
+      "jawaban": "Seminar dan workshop rutin diadakan oleh program studi dan organisasi mahasiswa. Informasi kegiatan dapat dilihat di papan pengumuman atau media sosial kampus."
+    },
+    {
+      "keyword": ["magang", "internship", "praktik", "kerja"],
+      "jawaban": "Program magang/praktik kerja industri wajib diambil pada semester 6 atau 7. Mahasiswa dapat mencari tempat magang sendiri atau melalui kerjasama kampus dengan industri."
+    },
+    {
+      "keyword": ["alumni", "lulusan", "tracer"],
+      "jawaban": "Data alumni dan tracer study dikelola oleh Career Development Center (CDC). Alumni dapat bergabung dengan Ikatan Alumni UTB untuk networking dan informasi lowongan kerja."
+    },
+    {
+      "keyword": ["kalender", "akademik", "tanggal"],
+      "jawaban": "Kalender akademik berisi jadwal penting seperti awal perkuliahan, UTS, UAS, libur, dan wisuda. Dapat diunduh di website resmi kampus atau portal akademik."
+    },
+    {
+      "keyword": ["pemrograman", "coding", "programming"],
+      "jawaban": "Mata kuliah pemrograman meliputi Algoritma, Pemrograman Dasar, Pemrograman Web, Mobile Programming, dan berbagai bahasa pemrograman seperti Python, Java, dan C++."
+    },
+    {
+      "keyword": ["basis", "data", "database"],
+      "jawaban": "Mata kuliah Basis Data mengajarkan tentang perancangan database, SQL, normalisasi, dan sistem manajemen basis data seperti MySQL, PostgreSQL, dan MongoDB."
+    },
+    {
+      "keyword": ["jaringan", "komputer", "networking"],
+      "jawaban": "Mata kuliah Jaringan Komputer membahas tentang protokol jaringan, TCP/IP, routing, switching, keamanan jaringan, dan administrasi jaringan."
+    },
+    {
+      "keyword": ["sistem", "operasi", "OS"],
+      "jawaban": "Mata kuliah Sistem Operasi mempelajari konsep manajemen proses, memori, file system, dan praktik dengan sistem operasi Linux dan Windows Server."
+    },
+    {
+      "keyword": ["web", "development", "pengembangan"],
+      "jawaban": "Pengembangan Web diajarkan menggunakan HTML, CSS, JavaScript, framework seperti React, Vue, Angular, dan backend dengan Node.js, PHP, atau Python Django."
+    },
+    {
+      "keyword": ["mobile", "aplikasi", "android", "iOS"],
+      "jawaban": "Pengembangan aplikasi mobile menggunakan Android Studio (Kotlin/Java), React Native, atau Flutter. Mahasiswa akan membuat project aplikasi mobile sebagai tugas akhir."
+    },
+    {
+      "keyword": ["keamanan", "security", "cyber"],
+      "jawaban": "Mata kuliah Keamanan Siber membahas tentang kriptografi, ethical hacking, penetration testing, keamanan aplikasi web, dan incident response."
+    },
+    {
+      "keyword": ["machine", "learning", "ML"],
+      "jawaban": "Machine Learning diajarkan menggunakan Python dengan library seperti scikit-learn, TensorFlow, dan PyTorch. Topik meliputi supervised learning, unsupervised learning, dan deep learning."
+    },
+    {
+      "keyword": ["data", "science", "analisis"],
+      "jawaban": "Data Science mencakup statistika, visualisasi data, data mining, dan big data analytics menggunakan tools seperti Python, R, Tableau, dan Apache Spark."
+    },
+    {
+      "keyword": ["cloud", "computing", "aws", "azure"],
+      "jawaban": "Cloud Computing mengajarkan tentang layanan cloud seperti AWS, Microsoft Azure, Google Cloud Platform, dan konsep Infrastructure as a Service (IaaS) dan Platform as a Service (PaaS)."
+    },
+    {
+      "keyword": ["software", "engineering", "rekayasa"],
+      "jawaban": "Rekayasa Perangkat Lunak membahas metodologi pengembangan software, SDLC, Agile, Scrum, version control dengan Git, dan project management."
+    },
+    {
+      "keyword": ["struktur", "data", "algoritma"],
+      "jawaban": "Struktur Data dan Algoritma adalah mata kuliah fundamental yang mempelajari array, linked list, stack, queue, tree, graph, sorting, dan searching algorithms."
+    },
+    {
+      "keyword": ["UI", "UX", "design", "desain"],
+      "jawaban": "UI/UX Design mengajarkan prinsip desain antarmuka pengguna, user research, wireframing, prototyping menggunakan tools seperti Figma, Adobe XD, atau Sketch."
+    },
+    {
+      "keyword": ["IoT", "internet", "things"],
+      "jawaban": "Internet of Things (IoT) membahas tentang sensor, microcontroller seperti Arduino dan Raspberry Pi, komunikasi wireless, dan integrasi dengan cloud services."
+    },
+    {
+      "keyword": ["blockchain", "cryptocurrency"],
+      "jawaban": "Teknologi Blockchain mencakup konsep distributed ledger, smart contracts, cryptocurrency, dan aplikasi blockchain dalam berbagai industri."
+    },
+    {
+      "keyword": ["game", "development", "pengembangan"],
+      "jawaban": "Game Development menggunakan engine seperti Unity atau Unreal Engine. Mahasiswa belajar programming game, game design, dan membuat project game 2D atau 3D."
+    },
+    {
+      "keyword": ["komputer", "grafis", "graphics"],
+      "jawaban": "Komputer Grafis mempelajari rendering, modeling 3D, animasi, pemrosesan citra, dan penggunaan OpenGL atau DirectX untuk grafis real-time."
+    },
+    {
+      "keyword": ["matematika", "diskrit", "discrete"],
+      "jawaban": "Matematika Diskrit adalah mata kuliah dasar yang mencakup logika, teori himpunan, kombinatorik, graph theory, dan aplikasinya dalam ilmu komputer."
+    },
+    {
+      "keyword": ["kalkulus", "calculus"],
+      "jawaban": "Kalkulus diajarkan sebagai mata kuliah dasar matematika yang penting untuk pemahaman algoritma optimasi, machine learning, dan computational science."
+    },
+    {
+      "keyword": ["statistika", "probabilitas"],
+      "jawaban": "Statistika dan Probabilitas diperlukan untuk analisis data, machine learning, dan penelitian. Mencakup distribusi probabilitas, inferensi statistik, dan hypothesis testing."
+    },
+    {
+      "keyword": ["etika", "profesi", "profesional"],
+      "jawaban": "Etika Profesi membahas tanggung jawab profesional IT, kode etik, privacy, intellectual property, dan isu-isu sosial dalam teknologi informasi."
+    },
+    {
+      "keyword": ["bahasa", "inggris", "english"],
+      "jawaban": "Bahasa Inggris merupakan mata kuliah wajib untuk meningkatkan kemampuan komunikasi akademik dan profesional dalam bahasa Inggris, terutama di bidang teknologi."
+    },
+    {
+      "keyword": ["pancasila", "kewarganegaraan"],
+      "jawaban": "Pendidikan Pancasila dan Kewarganegaraan adalah mata kuliah wajib nasional yang mengajarkan nilai-nilai Pancasila dan civic education."
+    },
+    {
+      "keyword": ["agama", "pendidikan"],
+      "jawaban": "Pendidikan Agama adalah mata kuliah wajib yang mengajarkan nilai-nilai keagamaan sesuai dengan agama yang dianut mahasiswa."
+    },
+    {
+      "keyword": ["seminar", "proposal", "sidang"],
+      "jawaban": "Seminar Proposal dilakukan sebelum pengerjaan Tugas Akhir untuk mempresentasikan rencana penelitian kepada dosen penguji. Setelah disetujui, mahasiswa dapat melanjutkan ke tahap penelitian."
+    },
+    {
+      "keyword": ["pkl", "kerja", "lapangan"],
+      "jawaban": "Praktek Kerja Lapangan (PKL) adalah kegiatan wajib yang memberikan pengalaman kerja di industri. Minimal dilaksanakan selama 3 bulan dan menghasilkan laporan PKL."
+    },
+    {
+      "keyword": ["komprehensif", "ujian", "comprehensive"],
+      "jawaban": "Ujian Komprehensif adalah ujian akhir yang menguji pemahaman mahasiswa secara menyeluruh terhadap semua mata kuliah yang telah dipelajari sebelum mengambil Tugas Akhir."
+    },
+    {
+      "keyword": ["yudisium", "kelulusan"],
+      "jawaban": "Yudisium adalah sidang penentuan kelulusan mahasiswa setelah menyelesaikan semua kewajiban akademik. Dilaksanakan sebelum wisuda untuk menetapkan predikat kelulusan."
+    },
+    {
+      "keyword": ["transkrip", "nilai", "akademik"],
+      "jawaban": "Transkrip nilai berisi daftar lengkap mata kuliah yang telah diambil beserta nilainya. Dapat diminta di bagian akademik untuk keperluan administratif atau melamar pekerjaan."
+    },
+    {
+      "keyword": ["surat", "keterangan", "aktif"],
+      "jawaban": "Surat Keterangan Aktif Kuliah dapat diminta di bagian akademik untuk keperluan seperti pembuatan visa, beasiswa, atau kebutuhan administratif lainnya."
+    },
+    {
+      "keyword": ["legalisir", "dokumen"],
+      "jawaban": "Legalisir dokumen akademik seperti ijazah dan transkrip dapat dilakukan di bagian akademik dengan membawa dokumen asli dan fotokopi."
+    },
+    {
+      "keyword": ["pindah", "kelas", "transfer"],
+      "jawaban": "Perpindahan kelas dapat diajukan dengan alasan yang valid ke bagian akademik pada awal semester. Persetujuan tergantung pada kuota kelas dan kebijakan program studi."
+    },
+    {
+      "keyword": ["drop", "mengundurkan", "diri"],
+      "jawaban": "Pengunduran diri dari mata kuliah tertentu dapat dilakukan sebelum batas waktu yang ditentukan. Setelah batas waktu, mata kuliah akan tetap tercatat dengan nilai yang diperoleh."
+    },
+    {
+      "keyword": ["remedial", "perbaikan", "nilai"],
+      "jawaban": "Remedial atau perbaikan nilai dapat dilakukan untuk mata kuliah tertentu sesuai kebijakan dosen pengampu. Nilai akhir biasanya merupakan nilai terbaik atau rata-rata."
+    },
+    {
+      "keyword": ["konseling", "bimbingan"],
+      "jawaban": "Layanan konseling dan bimbingan tersedia di bagian kemahasiswaan untuk membantu mahasiswa mengatasi masalah akademik maupun personal."
+    },
+    {
+      "keyword": ["dispensasi", "izin"],
+      "jawaban": "Dispensasi atau izin tidak mengikuti perkuliahan dapat diajukan dengan alasan yang valid seperti sakit atau keperluan keluarga. Surat izin diserahkan ke dosen pengampu dan bagian akademik."
+    },
+    {
+      "keyword": ["sanksi", "akademik", "pelanggaran"],
+      "jawaban": "Sanksi akademik diberikan kepada mahasiswa yang melanggar peraturan seperti plagiarisme, menyontek, atau kehadiran di bawah minimum. Sanksi bervariasi dari teguran hingga pembatalan mata kuliah."
+    },
+    {
+      "keyword": ["portal", "akademik", "login"],
+      "jawaban": "Portal akademik dapat diakses melalui website resmi kampus menggunakan NIM dan password. Jika lupa password, dapat direset melalui bagian IT atau akademik."
+    },
+    {
+      "keyword": ["email", "kampus", "mahasiswa"],
+      "jawaban": "Setiap mahasiswa mendapat email kampus dengan format nama@mahasiswa.utb.ac.id yang digunakan untuk komunikasi akademik dan akses berbagai layanan kampus."
+    },
+    {
+      "keyword": ["print", "fotokopi", "cetak"],
+      "jawaban": "Layanan fotokopi dan print tersedia di area kampus. Beberapa lokasi juga menyediakan print berwarna, scan, dan jilid dokumen."
+    },
+    {
+      "keyword": ["kantin", "makan", "cafe"],
+      "jawaban": "Kantin kampus buka dari pukul 07.00-17.00 dengan berbagai pilihan menu makanan dan minuman dengan harga terjangkau untuk mahasiswa."
+    },
+    {
+      "keyword": ["parkir", "kendaraan", "motor", "mobil"],
+      "jawaban": "Area parkir tersedia untuk mahasiswa dan dosen di beberapa lokasi kampus. Mahasiswa wajib mendaftar dan menempelkan stiker kendaraan untuk keamanan."
+    },
+    {
+      "keyword": ["kesehatan", "klinik", "medical"],
+      "jawaban": "Klinik kampus menyediakan layanan kesehatan dasar untuk mahasiswa dan karyawan. Buka setiap hari kerja dengan tenaga medis yang berpengalaman."
+    },
+    {
+      "keyword": ["asuransi", "kesehatan", "mahasiswa"],
+      "jawaban": "Mahasiswa terdaftar dalam program asuransi kesehatan yang mencakup biaya pengobatan dasar. Kartu asuransi dapat diambil di bagian kemahasiswaan."
+    },
+    {
+      "keyword": ["olahraga", "sport", "lapangan"],
+      "jawaban": "Fasilitas olahraga meliputi lapangan basket, futsal, voli, dan fitness center. Mahasiswa dapat menggunakan fasilitas ini di luar jam perkuliahan."
+    },
+    {
+      "keyword": ["asrama", "dormitory", "kost"],
+      "jawaban": "Kampus tidak menyediakan asrama resmi, namun terdapat banyak kost dan kontrakan di sekitar kampus dengan harga bervariasi. Informasi dapat dilihat di papan pengumuman."
+    },
+    {
+      "keyword": ["transportasi", "angkutan", "bus"],
+      "jawaban": "Kampus dapat diakses dengan berbagai transportasi umum seperti angkot, bus, dan ojek online. Tersedia halte bus di depan kampus untuk kemudahan akses."
+    },
+    {
+      "keyword": ["kompetisi", "lomba", "competition"],
+      "jawaban": "Mahasiswa didorong untuk mengikuti kompetisi baik tingkat regional, nasional, maupun internasional. Informasi kompetisi dapat dilihat di bagian kemahasiswaan atau website kampus."
+    },
+    {
+      "keyword": ["penelitian", "riset", "research"],
+      "jawaban": "Mahasiswa dapat terlibat dalam penelitian dosen atau mengajukan penelitian mandiri. Program studi mendukung publikasi hasil penelitian di jurnal atau konferensi."
+    },
+    {
+      "keyword": ["publikasi", "jurnal", "paper"],
+      "jawaban": "Mahasiswa yang melakukan penelitian dapat mempublikasikan hasil di jurnal atau conference proceedings. Kampus memiliki jurnal internal dan kerjasama dengan jurnal nasional."
+    },
+    {
+      "keyword": ["sertifikat", "certificate", "pelatihan"],
+      "jawaban": "Sertifikat kompetensi dan pelatihan dapat diperoleh melalui berbagai workshop dan training yang diselenggarakan kampus atau lembaga sertifikasi eksternal."
+    },
+    {
+      "keyword": ["koneksi", "industri", "kerjasama"],
+      "jawaban": "UTB memiliki kerjasama dengan berbagai industri IT untuk program magang, guest lecture, dan rekrutmen. Informasi dapat dilihat di Career Development Center."
+    },
+    {
+      "keyword": ["career", "karir", "lowongan"],
+      "jawaban": "Career Development Center (CDC) menyediakan informasi lowongan pekerjaan, pelatihan interview, pembuatan CV, dan career counseling untuk mahasiswa dan alumni."
+    },
+    {
+      "keyword": ["startup", "entrepreneurship", "bisnis"],
+      "jawaban": "Kampus mendukung mahasiswa yang ingin mengembangkan startup melalui program inkubator bisnis, pendampingan mentor, dan akses ke investor."
+    },
+    {
+      "keyword": ["hackathon", "coding", "competition"],
+      "jawaban": "Hackathon dan coding competition rutin diadakan oleh kampus atau organisasi mahasiswa. Ini adalah kesempatan bagus untuk mengasah skill dan networking."
+    },
+    {
+      "keyword": ["project", "proyek", "kelompok"],
+      "jawaban": "Banyak mata kuliah yang memiliki project kelompok untuk mengaplikasikan teori ke praktik. Project dikerjakan dalam tim dengan pembagian tugas yang jelas."
+    },
+    {
+      "keyword": ["presentasi", "presentation", "slide"],
+      "jawaban": "Presentasi adalah bagian penting dari evaluasi kuliah. Mahasiswa diharapkan mampu mempresentasikan project atau materi dengan baik menggunakan slide dan komunikasi efektif."
+    },
+    {
+      "keyword": ["ruang", "rapat", "meeting"],
+      "jawaban": "Ruang rapat tersedia untuk kegiatan organisasi mahasiswa atau diskusi kelompok. Reservasi dapat dilakukan melalui bagian kemahasiswaan atau portal akademik."
+    },
+    {
+      "keyword": ["zoom", "online", "daring"],
+      "jawaban": "Perkuliahan online menggunakan platform seperti Zoom, Google Meet, atau Microsoft Teams. Mahasiswa wajib hadir tepat waktu dan mengaktifkan kamera saat diminta."
+    },
+    {
+      "keyword": ["recording", "rekaman", "kuliah"],
+      "jawaban": "Beberapa dosen merekam perkuliahan online dan mengunggahnya ke portal atau YouTube untuk review. Namun rekaman tidak menggantikan kehadiran aktif di kelas."
+    },
+    {
+      "keyword": ["assignment", "penugasan", "deadline"],
+      "jawaban": "Tugas kuliah harus dikumpulkan sesuai deadline yang ditentukan. Keterlambatan dapat mengurangi nilai atau tugas tidak diterima sesuai kebijakan dosen."
+    },
+    {
+      "keyword": ["plagiarisme", "copy", "paste"],
+      "jawaban": "Plagiarisme adalah pelanggaran akademik serius. Semua tugas harus original atau mencantumkan sumber dengan benar. Pelanggaran dapat berakibat nilai nol atau sanksi akademik."
+    },
+    {
+      "keyword": ["referensi", "citation", "daftar", "pustaka"],
+      "jawaban": "Penulisan referensi dan daftar pustaka harus mengikuti format standar seperti IEEE, APA, atau Harvard. Gunakan reference manager seperti Mendeley atau Zotero untuk memudahkan."
+    },
+    {
+      "keyword": ["laboratorium", "asisten", "praktikum"],
+      "jawaban": "Asisten laboratorium membantu mahasiswa dalam praktikum dan pengerjaan tugas. Jadwal konsultasi dengan asisten lab dapat dilihat di papan pengumuman laboratorium."
+    },
+    {
+      "keyword": ["tools", "software", "lisensi"],
+      "jawaban": "Mahasiswa dapat mengakses berbagai software berlisensi untuk keperluan akademik seperti Microsoft Office, Visual Studio, MATLAB melalui program student license."
+    },
+    {
+      "keyword": ["github", "repository", "code"],
+      "jawaban": "Mahasiswa didorong untuk menggunakan GitHub atau GitLab untuk version control project. Beberapa tugas mengharuskan submission melalui repository Git."
+    },
+    {
+      "keyword": ["dokumentasi", "documentation", "report"],
+      "jawaban": "Dokumentasi project yang baik sangat penting. Setiap project harus memiliki README, code comments, dan technical documentation yang lengkap."
+    },
+    {
+      "keyword": ["tutorial", "pembelajaran", "belajar"],
+      "jawaban": "Selain kuliah formal, mahasiswa dapat belajar dari tutorial online, video YouTube, dokumentasi resmi, dan platform seperti Coursera atau Udemy."
+    },
+    {
+      "keyword": ["komunitas", "community", "forum"],
+      "jawaban": "Bergabung dengan komunitas developer seperti komunitas Python, JavaScript, atau AI Indonesia dapat memperluas network dan knowledge sharing."
+    },
+    {
+      "keyword": ["mentor", "mentoring", "bimbingan"],
+      "jawaban": "Program mentoring menghubungkan mahasiswa dengan senior atau alumni yang berpengalaman. Pendaftaran dapat dilakukan melalui bagian kemahasiswaan."
+    },
+    {
+      "keyword": ["exit", "keluar", "quit", "bye", "selesai"],
+      "jawaban": "Sampai jumpa! Semangat belajarnya dan sukses untuk UTS-nya!"
+    }
+  ]
+}
