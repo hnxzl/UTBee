@@ -2,6 +2,21 @@
   "pertanyaan": [
     {
       "keyword": [
+        "halo",
+        "hai",
+        "hello",
+        "assalamualaikum",
+        "pagi",
+        "siang",
+        "sore",
+        "malam",
+        "selamat",
+        "hey"
+      ],
+      "jawaban": "Halo! Ada yang bisa saya bantu? Tanyakan info akademik seperti jadwal kuliah, dosen, UTS, fasilitas kampus, atau lainnya."
+    },
+    {
+      "keyword": [
         "males",
         "malas",
         "tidak",
